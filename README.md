@@ -17,10 +17,10 @@ The project leverages **Retrieval-Augmented Generation (RAG)** and **Large Langu
 ---
 
 ## Features
-- 📑 **Document ingestion**: parse onboarding sheets, pitch decks, and external sources  
-- 🔍 **Information extraction**: use RAG + LLM prompts to structure unstructured data  
-- 📊 **Feature synthesis**: build interpretable tables with startup descriptors  
-- 🧠 **Decision support**: provide explanations and highlight key signals for investors  
+- **Document ingestion**: parse onboarding sheets, pitch decks, and external sources  
+- **Information extraction**: use RAG + LLM prompts to structure unstructured data  
+- **Feature synthesis**: build interpretable tables with startup descriptors  
+- **Decision support**: provide explanations and highlight key signals for investors  
 
 ---
 
@@ -30,5 +30,4 @@ The project leverages **Retrieval-Augmented Generation (RAG)** and **Large Langu
 - `src/` → main implementation of the RAG + LLM workflow  
 
 
-## References
 
